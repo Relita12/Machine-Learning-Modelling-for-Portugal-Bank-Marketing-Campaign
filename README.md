@@ -102,7 +102,7 @@ Asumsi Dasar
 7. Lending rate (suku bunga pinjaman): 5.17% Portugal landing rate
 8. Biaya pulsa di Portugal: $0.03 (€0.029 per menit) Portugal phone rate
 
-##Perhitungan
+**Perhitungan**
 
 Hilangnya Biaya dan Waktu untuk Telemarketing Biaya yang hilang dari waktu yang dihabiskan untuk setiap panggilan telemarketing dihitung sebagai berikut:
 
